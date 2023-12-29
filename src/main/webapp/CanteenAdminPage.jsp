@@ -12,16 +12,7 @@
 
 <div class="container">
   <div class="row p-5">
-    <div class="col-md-3">
-      <a href="addmenupage.jsp" enctype="multipart/form-data">
-        <div class="card">
-          <div class="card-body text-center">
-            <i class="fa-solid fa-user fa-3x"></i><br>
-            <h4>Fix Password</h4>
-          </div>
-        </div>
-      </a>
-    </div>
+
 
     <div class="col-md-3">
       <a href="menu-form.jsp" enctype="multipart/form-data">

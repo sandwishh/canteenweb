@@ -21,5 +21,10 @@
                    class="nav-link">Menu</a></li>
         </ul>
 
+        <ul class="navbar-nav">
+            <li><a href="loginAndRegister.jsp"
+                   class="nav-link">logout</a></li>
+        </ul>
+
     </div>
 </nav>
